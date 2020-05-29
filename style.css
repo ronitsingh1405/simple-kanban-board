@@ -78,8 +78,19 @@ body {
     background-color: #4cd13711;
 }
 
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
 
+h3{
+    color: orange;
+}
 
+u{
+    color: white;
+}
 
 
 
