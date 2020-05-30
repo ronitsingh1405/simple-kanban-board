@@ -82,15 +82,36 @@ h1{
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+
 }
 
 h3{
     color: orange;
+    text-align: justify;
 }
 
 u{
     color: white;
 }
 
+#more{
+    display: none;
+}
 
+button{
+    background-color: orange;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 18px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: 'Nunito';
+    font-size: 24px;
+}
 
